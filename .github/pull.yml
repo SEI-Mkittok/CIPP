@@ -8,4 +8,4 @@ rules:
     mergeMethod: none
   - base: website
     upstream: KelvinTegelaar:website
-    mergeMethod: merge
+    mergeMethod: none
